@@ -1,2 +1,2 @@
 [dev]
-10.0.2.12 ansible_user=jenkins
+10.0.2.9 ansible_user=webserver
