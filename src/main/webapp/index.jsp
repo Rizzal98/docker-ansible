@@ -1,12 +1,11 @@
 <html>
 <head></head>
       <body>
-          <h2 stype="colour: red" style="font-size: 23px;">HELLO! THIS IS OUR PROJECT, WELCOME TO THE PET STORE. </h2>
+          <h2 stype="colour: red" style="font-size: 23px;">HELLO! THIS IS OUR PROJECT, WELCOME TO OUR GADGETHUB. </h2>
 
 
-          <h3 style="font-size: 16px;">MANAGER: MUHAMMAD DARWISH DANIAL BIN MOHD FAZLI</h3>
-          <p style="font-size: 14px;">STORE ASSISTANT: MUHAMMAD HADIF BIN ROSLAN</p>
-          <p style="font-size: 13px;">CASHIER: MOHAMAD IKHWAN HAKIM BIN AZHAR </p>
+          <h3 style="font-size: 16px;">MANAGER: NOR ASRIZAL BIN OTHMAN</h3>
+          <p style="font-size: 14px;">STORE ASSISTANT: MOHAMMAD FARIS BIN AZNI</p>
       </body>
     <style type="text/css">
   </style>
